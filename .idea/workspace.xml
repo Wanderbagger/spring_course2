@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed2e2da8-dba4-4487-b37d-6727cd7a6bb2" name="Changes" comment="Учеба Спринг продолжение урок 1.5" />
+    <list default="true" id="ed2e2da8-dba4-4487-b37d-6727cd7a6bb2" name="Changes" comment="Учеба Спринг продолжение урок 1.5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +49,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "6a8ea580b44802aaaa331c5b9f7fd469",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -99,6 +102,7 @@
       <updated>1728039287453</updated>
       <workItem from="1728039289122" duration="629000" />
       <workItem from="1728451410528" duration="4353000" />
+      <workItem from="1728470824805" duration="356000" />
     </task>
     <task id="LOCAL-00001" summary="Учеба Спринг продолжение урок 1.5">
       <created>1728470730916</created>
@@ -107,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1728470730916</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Учеба Спринг продолжение урок 1.5">
+      <created>1728471103583</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728471103583</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
