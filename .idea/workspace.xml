@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed2e2da8-dba4-4487-b37d-6727cd7a6bb2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wanderbagger/spring/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/wanderbagger/spring/AppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="ed2e2da8-dba4-4487-b37d-6727cd7a6bb2" name="Changes" comment="Учеба Спринг продолжение урок 1.5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,11 +98,23 @@
       <option name="presentableId" value="Default" />
       <updated>1728039287453</updated>
       <workItem from="1728039289122" duration="629000" />
-      <workItem from="1728451410528" duration="4206000" />
+      <workItem from="1728451410528" duration="4353000" />
     </task>
+    <task id="LOCAL-00001" summary="Учеба Спринг продолжение урок 1.5">
+      <created>1728470730916</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728470730916</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Учеба Спринг продолжение урок 1.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Учеба Спринг продолжение урок 1.5" />
   </component>
 </project>
