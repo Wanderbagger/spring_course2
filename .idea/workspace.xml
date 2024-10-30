@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed2e2da8-dba4-4487-b37d-6727cd7a6bb2" name="Changes" comment="Учеба Спринг продолжение урок 1.6">
-      <change afterPath="$PROJECT_DIR$/recources/applicationContext2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recources/myApp.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Test5.java" afterDir="false" />
+    <list default="true" id="ed2e2da8-dba4-4487-b37d-6727cd7a6bb2" name="Changes" comment="Учеба Спринг продолжение урок 1.13">
+      <change afterPath="$PROJECT_DIR$/recources/applicationContext3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/ConfigWithAnnotation1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recources/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/spring_introduction/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring_introduction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/spring_introduction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring_introduction/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Test3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,21 +43,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/HELL/IdeaProjects/spring_course2/recources",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "spring.configuration.checksum": "998ab919a00447dd1b69ac85184cd003",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HELL/IdeaProjects/spring_course2/recources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;998ab919a00447dd1b69ac85184cd003&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HELL\IdeaProjects\spring_course2\recources" />
@@ -71,9 +66,9 @@
       <recent name="C:\Users\HELL\IdeaProjects\spring_course2\src\main\java\com\wanderbagger\spring" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test5">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="spring_introduction.Test" />
+  <component name="RunManager" selected="Application.ConfigWithAnnotation1">
+    <configuration name="ConfigWithAnnotation1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spring_introduction.ConfigWithAnnotation1" />
       <module name="spring_course2" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConfigWithAnnotation1" />
         <item itemvalue="Application.Test5" />
         <item itemvalue="Application.Test4" />
         <item itemvalue="Application.Test3" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +155,9 @@
       <workItem from="1728470824805" duration="470000" />
       <workItem from="1728624229208" duration="1521000" />
       <workItem from="1728882935129" duration="5055000" />
-      <workItem from="1728969293794" duration="1871000" />
+      <workItem from="1728969293794" duration="1906000" />
+      <workItem from="1729055959482" duration="1475000" />
+      <workItem from="1730282954923" duration="2134000" />
     </task>
     <task id="LOCAL-00001" summary="Учеба Спринг продолжение урок 1.5">
       <created>1728470730916</created>
@@ -183,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1728650920613</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Учеба Спринг продолжение урок 1.13">
+      <created>1729000739659</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729000739659</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +196,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Учеба Спринг продолжение урок 1.5" />
     <MESSAGE value="Учеба Спринг продолжение урок 1.6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Учеба Спринг продолжение урок 1.6" />
+    <MESSAGE value="Учеба Спринг продолжение урок 1.13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Учеба Спринг продолжение урок 1.13" />
   </component>
 </project>
