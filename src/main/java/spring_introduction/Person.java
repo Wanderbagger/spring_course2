@@ -10,6 +10,7 @@ public class Person {
     private String surname;
     private int age;
 
+
 //    @Autowired
 //    public Person(Pet pet) {
 //        System.out.println("Person bean is created");
