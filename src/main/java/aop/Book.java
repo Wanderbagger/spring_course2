@@ -20,4 +20,8 @@ public class Book {
     public int getYearOfPublication() {
         return yearOfPublication;
     }
+
+    public String getAuthor() {
+        return author;
+    }
 }
