@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed2e2da8-dba4-4487-b37d-6727cd7a6bb2" name="Changes" comment="Учеба Спринг продолжение урок 2.8">
-      <change afterPath="$PROJECT_DIR$/src/main/java/aop/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aop/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aop/University.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aop/aspects/UniversityLoggingAspect.java" afterDir="false" />
+    <list default="true" id="ed2e2da8-dba4-4487-b37d-6727cd7a6bb2" name="Changes" comment="Учеба Спринг продолжение урок 2.9">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aop/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aop/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aop/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aop/University.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aop/aspects/MyPointcuts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aop/aspects/MyPointcuts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aop/aspects/UniversityLoggingAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aop/aspects/UniversityLoggingAspect.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +169,7 @@
       <workItem from="1731491472855" duration="3931000" />
       <workItem from="1731578764246" duration="3063000" />
       <workItem from="1731648008587" duration="708000" />
-      <workItem from="1731907618669" duration="1031000" />
+      <workItem from="1731907618669" duration="5248000" />
     </task>
     <task id="LOCAL-00001" summary="Учеба Спринг продолжение урок 1.5">
       <created>1728470730916</created>
@@ -255,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1731648681934</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Учеба Спринг продолжение урок 2.9">
+      <created>1731908758574</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1731908758574</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,6 +280,7 @@
     <MESSAGE value="Учеба Спринг продолжение урок 2.6" />
     <MESSAGE value="Учеба Спринг продолжение урок 2.7" />
     <MESSAGE value="Учеба Спринг продолжение урок 2.8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Учеба Спринг продолжение урок 2.8" />
+    <MESSAGE value="Учеба Спринг продолжение урок 2.9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Учеба Спринг продолжение урок 2.9" />
   </component>
 </project>
