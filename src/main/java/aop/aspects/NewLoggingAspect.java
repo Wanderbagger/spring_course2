@@ -19,8 +19,6 @@ public class NewLoggingAspect {
             System.out.println("aroundReturnBookLoggingAdvice: было поймано исключение " + e.getMessage());
             throw e;
         }
-
-
         System.out.println("aroundReturnBookLoggingAdvice: в библиотеку " +
                 "успешно вернули книгу");
 
