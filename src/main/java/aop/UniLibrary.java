@@ -18,6 +18,8 @@ public class UniLibrary extends AbstractLibrary {
     public String returnBook() {
         System.out.println("Мы возвращаем книгу в Unilibrary");
         System.out.println("----------------------------------------------");
+        int a = 10/0;
+
         return "Война и мир";
     }
 
