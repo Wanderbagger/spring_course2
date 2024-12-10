@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed2e2da8-dba4-4487-b37d-6727cd7a6bb2" name="Changes" comment="Учеба Спринг продолжение урок 3.4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate/Test3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recources/hibernate.cfg.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hibernate/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hibernate/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hibernate/entity/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.hibernate.Test1.executor": "Run",
+    "Application.hibernate.Test2.executor": "Run",
+    "Application.hibernate.Test3.executor": "Run",
     "Application.hibernate_test.entity.Test1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -78,21 +81,11 @@
       <recent name="C:\Windows.old.000\Users\HELL\IdeaProjects\spring_course2\lib" />
       <recent name="C:\Users\HELL\IdeaProjects\spring_course2\src\main\java\com\wanderbagger\spring" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hibernate" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.hibernate.Test1">
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aop.Test1" />
-      <module name="spring_course2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.hibernate.Test3">
     <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aop.Test2" />
       <module name="spring_course2" />
@@ -119,19 +112,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="spring_introduction.Test6" />
-      <module name="spring_course2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="spring_introduction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="hibernate.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hibernate.Test1" />
       <module name="spring_course2" />
@@ -145,13 +125,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hibernate.Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate.Test2" />
+      <module name="spring_course2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hibernate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hibernate.Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate.Test3" />
+      <module name="spring_course2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hibernate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hibernate.Test3" />
+        <item itemvalue="Application.hibernate.Test2" />
         <item itemvalue="Application.hibernate.Test1" />
         <item itemvalue="Application.Test3" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Test6" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +208,7 @@
       <workItem from="1733601906102" duration="39000" />
       <workItem from="1733602893425" duration="2388000" />
       <workItem from="1733675853020" duration="2770000" />
+      <workItem from="1733825328836" duration="2759000" />
     </task>
     <task id="LOCAL-00001" summary="Учеба Спринг продолжение урок 1.5">
       <created>1728470730916</created>
